@@ -1,8 +1,8 @@
 ----------------Olá---------------
  
- -Trabalho como auxiliar de farmácia
- -Estudando Análise e desenvolvimento de sistemas
- -Aprendendo Python
+ -Trabalho como auxiliar de farmácia 
+ -Estudando Análise e desenvolvimento de sistemas 
+ -Aprendendo Python 
  
  <div align="center">
   <a href="https://github.com/Cabritokun">
