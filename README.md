@@ -12,4 +12,4 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cabritokun/cabritokun/blob/output/github-contribution-grid-snake.svg)
