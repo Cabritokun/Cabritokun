@@ -2,7 +2,7 @@
  
  -Trabalho como auxiliar de farmácia 
  -Estudando Análise e desenvolvimento de sistemas 
- -Aprendendo Python 
+ -Aprendendo Python-JavaScript-CSS-Html
  
  <div align="center">
   <a href="https://github.com/Cabritokun">
